@@ -10,5 +10,5 @@ This is a simple calendar application that allows the user to save events for ea
 
 ## Links to Application
 
-- Here is the link: [coconnor10/HW5](https://github.com/coconnor10/work-day-scheduler)
+- Here is the link: [coconnor10/work-day-scheduler](https://github.com/coconnor10/work-day-scheduler)
 - Here is the link to pages: [coconnor10/pages](https://coconnor10.github.io/work-day-scheduler/)
