@@ -6,7 +6,7 @@ This is a simple calendar application that allows the user to save events for ea
 
 ## Screenshot
 
-![The Work Day Scheduler webpage includes the current date, and time slots to save events.](./assets/images/screenshot.png)
+![The Work Day Scheduler webpage includes the current date, and time slots to save events.](./assets/images/screenshot.jpg)
 
 ## Links to Application
 
